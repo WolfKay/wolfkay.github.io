@@ -1,2 +1,2 @@
 # kwolf.dev
-Persona website
+Personal website

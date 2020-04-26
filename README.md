@@ -1,2 +1,1 @@
-# kwolf.dev
 Personal website
